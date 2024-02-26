@@ -4,10 +4,9 @@
 
 This in-class activity invites an emerging roboticist to explore the use of Robot Operating System (ROS). Take screenshots as you complete tutorials below to demonstrate your work.
 
-
 ## Tasks DUE by 9:30am Thursday, February 29
 
-1. Install [ROS 2 Humble Hawksbill](https://docs.ros.org/en/humble/Installation.html)
+1. Install [ROS 2](https://www.ros.org/blog/getting-started/), specifically [Humble Hawksbill](https://docs.ros.org/en/humble/Installation.html)
 2. Complete the following tutorials:
 - [Configuring environment](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Configuring-ROS2-Environment.html)
 - [Using turtlesim and rqt](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html)
